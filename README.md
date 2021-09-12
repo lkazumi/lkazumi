@@ -20,3 +20,5 @@
   <a href="https://bit.ly/mikemorais" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mikemoraisdasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+ 
+ ![Snake animation](https://github.com/lkazumi/lkazumi/blob/output/github-contribution-grid-snake.svg)
