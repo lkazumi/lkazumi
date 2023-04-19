@@ -1,9 +1,7 @@
 ## Olá! Eu sou Mike Morais 
- <div>
-  <a href="https://github.com/lkazumi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkazumi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkazumi&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkazumi&show_icons=true&theme=dracula&count_private=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkazumi&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
  <!--https://devicon.dev/-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -13,7 +11,7 @@
   <img align="center" alt="NodeJS" height="40" width="40" src="https://img.icons8.com/fluency/40/node-js.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-</div>
+</div> 
  
  ##
  
@@ -23,3 +21,8 @@
 </div>
  
  ![Snake animation](https://github.com/lkazumi/lkazumi/blob/output/github-contribution-grid-snake.svg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lkazumi&repo=api-rest-java-volmed&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lkazumi&repo=openai-nodejs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lkazumi&repo=lkazumi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lkazumi&repo=web-scraping-node.js&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
