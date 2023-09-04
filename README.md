@@ -11,6 +11,7 @@
   <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img align="center" alt="Docker" height="40" width="40" src="https://github.com/lkazumi/lkazumi/assets/53874401/f91720ef-27fd-4914-a15f-6a350a356413"/>
   <img align="center" alt"MySQL" heignt="40" width="40" src="https://github.com/lkazumi/lkazumi/assets/53874401/f55bc5bb-65b8-4525-8012-b554cbe26cba"/>
   <img align="center" alt"PostgreSQL" heignt="40" width="40" src="https://github.com/lkazumi/lkazumi/assets/53874401/e8aa56d6-95f6-458b-a408-8fbb48c1a654"/>
   <img align="center" alt="Oracle" height="40" width="40" src="https://github.com/lkazumi/lkazumi/assets/53874401/a431eb9a-c881-427e-9284-d4c55ccf2f0d"/>
