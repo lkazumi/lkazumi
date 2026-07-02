@@ -17,7 +17,7 @@ Desenvolvedor Back-end • Power BI • SQL • Docker • Oracle
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Desenvolvedor Java e Node.js
+- 💻 Desenvolvedor Java, Node.js, ABAP
 - 📊 Especialista em Power BI, SQL e Oracle
 - 🐳 Entusiasta de Docker e Homelab
 - 🤖 Estudando IA e automações
